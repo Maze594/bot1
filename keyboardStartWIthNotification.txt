@@ -1,0 +1,18 @@
+{
+      "Type":"keyboard",
+      "Buttons":[
+         {
+            "Columns": 3,
+	        "Rows": 1,
+	        "BgColor": "#C6FFF9",
+            "ActionBody":"/start",
+            "Text":"Давай начнем!"
+         },{
+            "Columns": 3,
+	        "Rows": 1,
+	        "BgColor": "#C6FFF9",
+            "ActionBody":"/addnotification",
+            "Text":"Отложить напоминание"
+         }
+      ]
+}

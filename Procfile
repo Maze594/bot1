@@ -1,0 +1,1 @@
+web: gunicorn lb6_server:app

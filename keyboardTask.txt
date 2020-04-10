@@ -1,0 +1,37 @@
+{
+      "Type":"keyboard",
+      "Buttons":[
+         {
+            "Columns": 3,
+	        "Rows": 1,
+	        "BgColor": "#C6FFF9",
+            "ActionBody":"1",
+            "Text":"1"
+         },{
+            "Columns": 3,
+	        "Rows": 1,
+	        "BgColor": "#C6FFF9",
+            "ActionBody":"2",
+            "Text":"2"
+         },{
+            "Columns": 3,
+	        "Rows": 1,
+	        "BgColor": "#C6FFF9",
+            "ActionBody":"3",
+            "Text":"3"
+         },{
+            "Columns": 3,
+	        "Rows": 1,
+	        "BgColor": "#C6FFF9",
+            "ActionBody":"4",
+            "Text":"4"
+         },{
+            "Columns": 6,
+	        "Rows": 1,
+	        "BgColor": "#FFC6C6",
+            "ActionBody":"/example",
+            "Text":"Пример"
+         }
+
+      ]
+}

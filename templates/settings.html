@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Настройки бота</title>
+</head>
+<body>
+    Параметры:
+    <form>
+        <p>Время для напоминания (мин):</p>
+        <p><input type="number" min="1" name="notification_time" value="{{ notification_time }}"></p>
+        <p>Количество слов в одном тесте:</p>
+        <p><input type="number" min="1" name="test_size" value="{{ test_size }}"></p>
+        <p>Количество правильных ответов для выучивания:</p>
+        <p><input type="number" min="1" name="correct_count" value="{{ correct_count }}"></p>
+
+        <p><input type="submit" value="Применить" formmethod="post"></p>
+    </form>
+</body>
+</html>

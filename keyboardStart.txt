@@ -1,0 +1,12 @@
+{
+      "Type":"keyboard",
+      "Buttons":[
+         {
+            "Columns": 6,
+	        "Rows": 1,
+	        "BgColor": "#94FFB1",
+            "ActionBody":"/start",
+            "Text":"Давай начнем!"
+         }
+      ]
+}
